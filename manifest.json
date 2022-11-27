@@ -1,0 +1,16 @@
+{
+  "entry:app/client.imba?web": {
+    "url": "/bmaps/assets/client.7SXPABB6.js",
+    "path": "/home/bohuslav/projects/bolls_data/maps/dist/assets/client.7SXPABB6.js"
+  },
+  "*?css": {
+    "url": "/bmaps/assets/index.KPWWXANA.css",
+    "path": "/home/bohuslav/projects/bolls_data/maps/dist/assets/index.KPWWXANA.css"
+  },
+  "/bmaps/index.html": {},
+  "/bmaps/assets/data.json.YJRVHF2R.js": {},
+  "/bmaps/assets/client.7SXPABB6.js": {},
+  "/bmaps/assets/client.EMMFALRW.css": {},
+  "/bmaps/assets/index.KPWWXANA.css": {},
+  "main": "index.html"
+}
